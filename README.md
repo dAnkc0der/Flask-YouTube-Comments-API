@@ -1,4 +1,4 @@
-# Submission-ylytic
+# Flask-YouTube-Comments-API
 
 This repository contains a Flask API that provides a search interface for fetching comments from a YouTube video using the Ylytic API. The API supports various search parameters such as author name, date range, like and reply count range, and search text.
 
